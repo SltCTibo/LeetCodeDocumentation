@@ -1,1 +1,0 @@
-/Users/tibobarbe/Thibault/Docs/LeetCodeDocumentation/TwoPointers/trapping_rain_water/target/debug/trapping_rain_water: /Users/tibobarbe/Thibault/Docs/LeetCodeDocumentation/TwoPointers/trapping_rain_water/src/main.rs
