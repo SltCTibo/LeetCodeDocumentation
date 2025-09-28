@@ -1,1 +1,0 @@
-/Users/tibobarbe/Thibault/Docs/LeetCodeDocumentation/Stack/daily_temperatures/target/debug/daily_temperatures: /Users/tibobarbe/Thibault/Docs/LeetCodeDocumentation/Stack/daily_temperatures/src/main.rs
